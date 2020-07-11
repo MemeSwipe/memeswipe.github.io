@@ -42,8 +42,8 @@ features                                  :
     description                           : Swipe up to like and save the meme to your library.
     fontawesome_icon_name                 : download
 
-  - title                                 : Everevolving content
-    description                           : New memes are constantly added
+  - title                                 : Fresh content
+    description                           : New memes are constantly being added.
     fontawesome_icon_name                 : cloud
 
   - title                                 : Artificial intelligence
